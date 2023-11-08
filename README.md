@@ -13,3 +13,7 @@ https://sara-li-01.github.io/2023_Basics_of_Web_Technologies/typography.html
 https://sara-li-01.github.io/2023_Basics_of_Web_Technologies/images.html
 
 https://sara-li-01.github.io/2023_Basics_of_Web_Technologies/table.html
+
+
+
+Контрольная работа 1:
