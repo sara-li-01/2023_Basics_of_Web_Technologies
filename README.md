@@ -17,4 +17,5 @@ https://sara-li-01.github.io/2023_Basics_of_Web_Technologies/table.html
 
 
 # Контрольная работа 1:
-https://sara-li-01.github.io/2023_Basics_of_Web_Technologies/Work_1/index.html
+1. https://sara-li-01.github.io/2023_Basics_of_Web_Technologies/Work_1/index.html
+2. https://sara-li-01.github.io/2023_Basics_of_Web_Technologies/Work_1/DOM_JS/DOM, JS.  Считываем информацию из DOM.html
