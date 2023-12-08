@@ -13,48 +13,38 @@ function verify() {
         result_1 = "Да"
         document.getElementById("result_1").innerText = messageText + result_1;
         document.getElementsByName('result_1')[0].value = result_1;
-        check = true;
     } else {
         result_1 = "Нет"
         document.getElementById("result_1").innerText = messageText + result_1;
         document.getElementsByName('result_1')[0].value = result_1;
-        check = false;
     }
     if (cylinder<=m) {
         result_2 = "Да"
         document.getElementById("result_2").innerText = messageText_2 + result_2;
         document.getElementsByName('result_2')[0].value = result_2;
-        check = true;
     } else {
         result_2 = "Нет"
         document.getElementById("result_2").innerText = messageText_2 + result_2;
         document.getElementsByName('result_2')[0].value = result_2;
-        check = false;
     }
     if ((cylinder+cube)<=m) {
         result_3 = "Да"
         document.getElementById("result_3").innerText = messageText_3 + result_3;
         document.getElementsByName('result_3')[0].value = result_3;
-        check = true;
     } else {
         result_3 = "Нет"
         document.getElementById("result_3").innerText = messageText_3 + result_3;
         document.getElementsByName('result_3')[0].value = result_3;
-        check = false;
     }
 }
 
 function send() {
-    if (check) {
-        let textCondition = document.getElementsByTagName('p')[0].innerText
-        document.getElementsByName('formulation')[0].value = textCondition;
-        document.getElementsByName('result_1')[0].value = result_1;
-        document.getElementsByName('result_2')[0].value = result_2;
-        document.getElementsByName('result_3')[0].value = result_3;
-        document.getElementById("UserEnter").submit();
-    } else {
-        alert("Есть недостатки. Повторите ввод")
-    }
+    let textCondition = document.getElementsByTagName('p')[0].innerText
+    document.getElementsByName('formulation')[0].value = textCondition;
+    document.getElementsByName('result_1')[0].value = result_1;
+    document.getElementsByName('result_2')[0].value = result_2;
+    document.getElementsByName('result_3')[0].value = result_3;
+    document.getElementById("UserEnter").submit();
 }
 
 function verify_send() {
@@ -63,7 +53,6 @@ function verify_send() {
 }
 
 let result_1, result_2, result_3;
-let check = false;
 
 let messageText = document.getElementById("result_1").innerText
 console.log(messageText)
