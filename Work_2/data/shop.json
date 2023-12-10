@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Daisy Fay and the Miracle Man, 1981",
+    "vendor_code": "0001",
+    "price": 12.49,
+    "img": "https://m.media-amazon.com/images/I/71LVbLK3htL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Fried Green Tomatoes at the Whistle Stop Cafe, 1987",
+    "vendor_code": "0002",
+    "price": 9.99,
+    "img": "https://upload.wikimedia.org/wikipedia/en/a/a1/Friedgreenbook.jpg"
+  },
+  {
+    "id": "3",
+    "title": "Welcome to the World, Baby Girl!, 1998",
+    "vendor_code": "0003",
+    "price": 14.98,
+    "img": "https://ndc.book24.ru/resize/337x540/iblock/b78/b78e6989af2a5c553d746ffe39404eba/c71256279dfdc12b8e9805333678b456.jpg"
+  },
+  {
+    "id": "4",
+    "title": "Standing in the Rainbow, 2002",
+    "vendor_code": "0004",
+    "price": 18.50,
+    "img": "https://m.media-amazon.com/images/I/51ykpp-8wWL._AC_UF1000,1000_QL80_.jpg"
+  }
+  ,
+  {
+    "id": "5",
+    "title": "A Redbird Christmas, 2004",
+    "vendor_code": "0005",
+    "price": 15.45,
+    "img": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/8188tZ87DfL._AC_UF1000,1000_QL80_.jpg"
+  },
+  {
+    "id": "6",
+    "title": "Can't Wait to Get to Heaven, 2006",
+    "vendor_code": "0006",
+    "price": 8.75,
+    "img": "https://images.penguinrandomhouse.com/cover/9780345494887"
+  },
+  {
+    "id": "7",
+    "title": "I Still Dream About You, 2010",
+    "vendor_code": "0007",
+    "price": 5.00,
+    "img": "https://upload.wikimedia.org/wikipedia/en/8/88/I_Still_Dream_About_You_first_edition_cover.jpg"
+  },
+  {
+    "id": "8",
+    "title": "The All-Girl Filling Station's Last Reunion, 2013",
+    "vendor_code": "0008",
+    "price": 17.11,
+    "img": "https://m.media-amazon.com/images/I/51cTThh6V4L.jpg"
+  },
+  {
+    "id": "9",
+    "title": "The Whole Town's Talking, 2016",
+    "vendor_code": "0009",
+    "price": 22.95,
+    "img": "https://m.media-amazon.com/images/I/A1eZxwKwRZL._AC_UF1000,1000_QL80_.jpg"
+  }
+  ,
+  {
+    "id": "10",
+    "title": "The Wonder Boy of Whistle Stop, 2020",
+    "vendor_code": "0010",
+    "price": 8.01,
+    "img": "https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/913HTg5WqaL._AC_UF1000,1000_QL80_.jpg"
+  }
+]
